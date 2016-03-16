@@ -1,0 +1,28 @@
+name: 'Old Git Knits '
+favicon: null
+layout_spectrum: 0.2645332810934633
+typography_spectrum: 0.6308150594122708
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.641959116095677
+  lightness: 0.5773779740557075
+  saturation: 0.2896804711781442
+  rhythmicContrast: 0.960370359942317
+purpose: []
